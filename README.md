@@ -41,3 +41,11 @@ Enter second number: 3
 Would you like to do another operation? (yes/no): no
 Goodbye!
 Never forget you're someone's reason to smile (because you're a joke!).
+```
+
+## Credits
+
+This calculator was created with the assistance of ChatGPT by OpenAI.
+
+Feel free to make any adjustments or add any information that you think would be helpful for users trying to replicate and understand the code.
+
