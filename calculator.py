@@ -32,7 +32,7 @@ def get_goodbye_insult():
     ]
     return random.choice(goodbye_insults)
 
-print("Welcome to the Funny Calculator!")
+print("Welcome to the Eccentric Calculator!")
 print("Let's do some calculations while having a little fun.")
 print()
 print("Select operation:")
